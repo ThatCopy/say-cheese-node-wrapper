@@ -1,6 +1,6 @@
 {
   "name": "say-cheese-node-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A wrapper for IllusionMan1212's say cheese API",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ThatCopy/say-cheese-node-wrapper.git"
   },
-  "keywords": [],
+  "keywords": ["cheese", "api", "wrapper", "say-cheese"],
   "author": "",
   "license": "MIT",
   "bugs": {
