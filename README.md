@@ -6,13 +6,13 @@ A wrapper for IllusionMan1212's say cheese API
 ## Install
 
 ```bash
-npm i --save say-cheese-wrapper
+npm i say-cheese-node-wrapper
 ```
 
 or
 
 ```bash
-yarn add say-cheese-wrapper
+yarn add say-cheese-node-wrapper
 ```
 
 ## The module contains JSDoc and .d.ts so you should find docs in your ide/editor
